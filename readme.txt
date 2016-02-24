@@ -1,0 +1,1 @@
+This project is based on code provided by CS383, however the function has been modified to solve the n-queens game. https://en.wikipedia.org/wiki/Eight_queens_puzzle
